@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Depression",
+        "scheme": "3 Month",
+        "description": "Depression (major depressive disorder) is a common and serious medical illness that negatively affects how you feel, the way you think and how you act.",
+        "img": "https://i.ibb.co/cDGF9qk/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Medication Management",
+        "scheme": "3 Month",
+        "description": "Medication management is the process of overseeing the medications prescribed for a patient to ensure they are taken properly and achieving their planned",
+        "img": "https://i.ibb.co/FHryY5S/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Insomnia",
+        "scheme": "5 Month",
+        "description": "Insomnia means you regularly have problems sleeping. It usually gets better by changing your sleeping habits. Check if you have insomnia.",
+        "img": "https://i.ibb.co/m42XB2c/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ADHD",
+        "scheme": "1 Year",
+        "description": "Attention-deficit/hyperactivity disorder (ADHD) is one of the most common mental disorders affecting children. ADHD also affects many adults.",
+        "img": "https://i.ibb.co/1qzPSM3/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "PTSD",
+        "scheme": "6 Month",
+        "description": "Post-traumatic stress disorder (PTSD) is a mental health disorder that some people develop after they experience or see a traumatic event.",
+        "img": "https://i.ibb.co/nsnRC0Y/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Anxiety & Panic Attacks",
+        "scheme": "3 Days Per Week",
+        "description": "Anxiety is a feeling of unease. It can range from mild to severe, and can include feelings of worry and fear. Panic is the most severe form of anxiety. ",
+        "img": "https://i.ibb.co/PWDvTXP/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Childhood disease and disorder",
+        "scheme": "2 Hour Per Day",
+        "description": "Childhood disease and disorder, any illness, impairment, or abnormal condition that affects primarily infants and children",
+        "img": "https://i.ibb.co/r79BJvp/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Mental disorders",
+        "scheme": "1 Year",
+        "description": "Mental disorders (or mental illnesses) are conditions that affect your thinking, feeling, mood, and behavior. They may be occasional or long-lasting (chronic)",
+        "img": "https://i.ibb.co/y4k9cys/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Special Kids",
+        "scheme": "Untill Fit",
+        "description": "They may involve dysfunction in attention, memory, perception, language, problem-solving, or social interaction. These disorders may be mild and easily",
+        "img": "https://i.ibb.co/jfPhDt3/9.jpg"
+    }
+]

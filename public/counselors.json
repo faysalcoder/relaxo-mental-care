@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Isabelle Graham",
+        "designation": "Clinical Psychologist",
+        "fees": 200,
+        "img": "https://i.ibb.co/9pP2rv0/2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Danielle Green",
+        "designation": "Clinical Psychologist",
+        "fees": 300,
+        "img": "https://i.ibb.co/1dRqph5/1.jpg "
+    },
+    {
+        "id": 3,
+        "name": "Jackson Hudson",
+        "designation": "Clinical Psychologist",
+        "fees": 200,
+        "img": "https://i.ibb.co/8BWqP63/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jessica Harrison",
+        "designation": "Clinical Psychologist",
+        "fees": 300,
+        "img": "https://i.ibb.co/T4QMjhQ/4.jpg"
+    }
+]
